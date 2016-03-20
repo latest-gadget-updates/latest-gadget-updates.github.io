@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:
+title:            Latest Gadget Updates
+locale:           en_UK
+url:              
 
 
 # Jekyll configuration
@@ -41,9 +41,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Techno Whizz
+  avatar: https://www.emojibase.com/resources/img/emojis/apple/x1f4bb.png.pagespeed.ic.HRxfonahwi.png
+  bio: "Need help in finding the right device for you? Then here is the place to look!"
   email:
   disqus-shortname:
   twitter: #username
